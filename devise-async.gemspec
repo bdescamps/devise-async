@@ -19,7 +19,6 @@ Gem::Specification.new do |gem|
 
 
   gem.add_runtime_dependency 'devise', '>= 4.0'
-  gem.add_runtime_dependency 'activejob', '>= 5.0'
 
   gem.add_development_dependency 'activerecord', '>= 5.0'
   gem.add_development_dependency 'actionpack',   '>= 5.0'
